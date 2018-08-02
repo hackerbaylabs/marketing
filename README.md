@@ -19,14 +19,14 @@ We have an intro call where we look at your requirements and give you an estimat
 
 Here's how we work:
 
-Demos every week: We demo the work we've done at the end of every week. If you're not satisfied with the demo. We waive the invoice off.
-Talk directly to engineers: You talk directly to someone who is actually working on your project. No project manager. No middle man. No fuss.
-Part time or Full time: We engage with you part time or full-time. Any number of hours a week is completely fine by us.
-Any technology: We work with any technology and on any stack. From Web to Mobile, JavaScript to Go and more.
-Updates every day: We'll have a call with you and update you every day on Slack or Skype on work we've done.
-Our team is yours: Hire anyone in our team. From app developers, to UI/UX designers, and even DevOps. We're all yours.
-Transparency in work: Every minute of work we do is recorded and snapshotted for you to look at. We believe in 100% transparency.
-Beautiful apps. Guaranteed. We'll make your app and services amazing, beautiful, simple, and easy to use.
+- **Demos every week:** We demo the work we've done at the end of every week. If you're not satisfied with the demo. We waive the invoice off.
+- **Talk directly to engineers:** You talk directly to someone who is actually working on your project. No project manager. No middle man. No fuss.
+- **Part time or Full time:** We engage with you part time or full-time. Any number of hours a week is completely fine by us.
+- **Any technology:** We work with any technology and on any stack. From Web to Mobile, JavaScript to Go and more.
+- **Updates every day:** We'll have a call with you and update you every day on Slack or Skype on work we've done.
+- **Our team is yours:** Hire anyone in our team. From app developers, to UI/UX designers, and even DevOps. We're all yours.
+- **Transparency in work:** Every minute of work we do is recorded and snapshotted for you to look at. We believe in 100% transparency.
+- **Beautiful apps. Guaranteed:** We'll make your app and services amazing, beautiful, simple, and easy to use.
 
 ## Target Market
 
