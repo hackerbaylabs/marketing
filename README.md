@@ -49,7 +49,7 @@ We're ideally suited for companies who want to get an app or a service built. We
 #### (200 characters)
 We're ideally suited for companies who want to get an app or a service built. We're a plug and play tech team which integrates with our client's team and helps them get technology built.  
 
-## Past Clients
+## Current and Past Clients
 
 - [LunaLights](https://lunalights.org)
 - [CloudBoost](https://cloudboost.io)
@@ -81,6 +81,7 @@ Please find them [here](/covers)
 - LinkedIn: https://www.linkedin.com/company/HackerBayLabs/
 
 ## More
+
 - Website: https://hackerbaylabs.com
 - GitHub: https://github.com/hackerbaylabs
 - Blog: https://medium.com/hackerbaylabs
