@@ -1,14 +1,14 @@
-# HackerBay Ventures Marketing
+# HackerBay Labs Marketing
 
-This repo is open and transparent to the world. If you're looking for marketing materials of HackerBay Ventures like logos, description and more. It's all here in this repo. 
+This repo is open and transparent to the world. If you're looking for marketing materials of HackerBay Labs like logos, description and more. It's all here in this repo. 
 
 ## Description
 
 ### One Sentence Pitch
-We invest in bold technology businesses.
+Incremental Digital Transformation for Enterprises.
 
 ### Small Description (140 characters)
-We invest in bold technology businesses focussed on profitability and sustainability over reckless and mindless growth.  
+We help the world’s leading companies build amazing apps and services that are simple, beautiful and easy to use. 
 
 ### Description (500 characters)
 We invest in bold technology businesses focussed on profitability and sustainability over reckless and mindless growth. We typically look for early stage technology or technology-enabled businesses that have been in operations for at least a year or more, have a little revenue (minimum $10k, ideally $20K, as high as $100K anually), and have a high quality team in place.
@@ -28,19 +28,26 @@ We'll make an offer within 7 days and close in 30. We wire you the funds the day
 
 We usually sign a [SAFE](https://www.ycombinator.com/documents/#safe) at this stage of the business - it's fair to both founders and us when critical valuation conversations are deferred to a priced round.
 
-## Who do we invest in?
+## Target Market
 
-**SaaS**
+### Who do we serve? 
 
-You've got your subscription product off the ground and have few paying customers who are using it. You're making some revenue a year and you need more funds to hire people and scale. We usually like companies that can demonstrate unit economics, path to profitability, high margins and a great team.
+#### (250 characters)
 
-**Enterprise Software**
+Fyipe is currently being used by hundreds of startups and enterprises around the world. From Banking, Healthcare, SaaS, E-commerce, manufacturing, education and more - We have customers in most industry vericals and we support customers of all sizes. 
 
-We have significant experience building enterprise software and selling them. Software used by large companies is still awful and still very lucrative and there's a lot of room for software automation and innovation in every industry. Every vertical is going through some form of information-based disruption; this is causing businesses to modernize their practices, leveraging new data, accelerating key processes, and delivering digitally-enabled experiences in the process.
+#### (200 characters)
 
-**Developer Tools**
+Fyipe is currently being used by hundreds of startups and enterprises around the world. We have customers in most industry vericals and we support customers of all sizes. 
 
-The products software developers use to make software are a powerful lever: they have a dramatic impact on the quality and kind of software being built. We’re interested in helping developers create better software, faster. This includes new ways to write, understand, and collaborate on code, and the next generation of tools and infrastructure for delivering software continuously and reliably. Good way to think about this - What comes after programming languages and frameworks?
+### Who are we ideally suited for? 
+
+#### (250 characters)
+
+We are ideally suited for teams who want to monitor web apps, API's or any service on the internet and have the team alerted when downtime happens. We're suited for scenerios where downtime resolution is critial for the business, customers and the bottom line. 
+
+#### (200 characters)
+We are ideally suited for teams who want to monitor web apps, API's or any service on the internet and have the team alerted when downtime happens.
 
 ## Logos
 
@@ -54,13 +61,20 @@ Please find them [here](/partner-logos)
 
 Please find them [here](/covers)
 
+## Reviews
+
+- AlternativeTo: https://alternativeto.net/software/fyipe/
+- Capterra: https://www.capterra.com/p/176513/Fyipe/
+- G2Crowd: https://www.g2crowd.com/products/fyipe/reviews
+- StackShare: https://stackshare.io/fyipe
+
 ## Social Media
 
-- Twitter: https://twitter.com/HBayVentures
-- Facebook: https://www.facebook.com/HackerBayVentures/
-- LinkedIn: https://www.linkedin.com/company/HackerBayVentures/
+- Twitter: https://twitter.com/HackerBayLabs
+- Facebook: https://www.facebook.com/HackerBayLabs/
+- LinkedIn: https://www.linkedin.com/company/HackerBayLabs/
 
 ## More
-- Website: https://hackerbayventures.com
-- GitHub: https://github.com/hackerbayventures
-- Blog: https://medium.com/hackerbay-ventures 
+- Website: https://hackerbaylabs.com
+- GitHub: https://github.com/hackerbaylabs
+- Blog: https://medium.com/hackerbaylabs
