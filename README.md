@@ -44,10 +44,19 @@ Fyipe is currently being used by hundreds of startups and enterprises around the
 
 #### (250 characters)
 
-We are ideally suited for teams who want to monitor web apps, API's or any service on the internet and have the team alerted when downtime happens. We're suited for scenerios where downtime resolution is critial for the business, customers and the bottom line. 
+We're ideally suited for companies who want to get an app or a service built. We're a plug and play tech team which integrates with our client's team and helps them get technology built. We've worked with companies of all sizes and verticals. 
 
 #### (200 characters)
-We are ideally suited for teams who want to monitor web apps, API's or any service on the internet and have the team alerted when downtime happens.
+We're ideally suited for companies who want to get an app or a service built. We're a plug and play tech team which integrates with our client's team and helps them get technology built.  
+
+## Past Clients
+
+- [LunaLights](https://lunalights.org)
+- [CloudBoost](https://cloudboost.io)
+- [Fyipe](https://fyipe.com)
+- [Flow](https://flowplatform.com)
+- [CodeMakers](https://codemakers.com.au)
+- and more...
 
 ## Logos
 
@@ -63,10 +72,7 @@ Please find them [here](/covers)
 
 ## Reviews
 
-- AlternativeTo: https://alternativeto.net/software/fyipe/
-- Capterra: https://www.capterra.com/p/176513/Fyipe/
-- G2Crowd: https://www.g2crowd.com/products/fyipe/reviews
-- StackShare: https://stackshare.io/fyipe
+- Clutch.co:<TO-DO> 
 
 ## Social Media
 
