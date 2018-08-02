@@ -11,7 +11,7 @@ Incremental Digital Transformation for Enterprises.
 We help the world’s leading companies build amazing apps and services that are simple, beautiful and easy to use. 
 
 ### Description (500 characters)
-We invest in bold technology businesses focussed on profitability and sustainability over reckless and mindless growth. We typically look for early stage technology or technology-enabled businesses that have been in operations for at least a year or more, have a little revenue (minimum $10k, ideally $20K, as high as $100K anually), and have a high quality team in place.
+HackerBay Labs is a software consulting and software development agency that helps the world’s leading companies build amazing apps and services that are simple, beautiful and easy to use. We've worked with enterpries like Hersheys, Bank of America, BDO, EverTec in the past and have worked with startups like [LunaLights](https://lunalights.org), [CloudBoost](https://cloudboost.io), [Fyipe](https://fyipe.com), [Flow](https://flowplatform.com), [CodeMakers](https://codemakers.com.au) and helped them ship high quality software and services to their customers on time. 
 
 ## Differentiators
 
@@ -34,20 +34,20 @@ We usually sign a [SAFE](https://www.ycombinator.com/documents/#safe) at this st
 
 #### (250 characters)
 
-Fyipe is currently being used by hundreds of startups and enterprises around the world. From Banking, Healthcare, SaaS, E-commerce, manufacturing, education and more - We have customers in most industry vericals and we support customers of all sizes. 
+HackerBay Labs has worked with and is working with hundreds of startups and enterprises around the world. From Banking, Healthcare, SaaS, E-commerce, manufacturing, education and more - We have customers in most industry vericals and we support customers of all sizes. 
 
 #### (200 characters)
 
-Fyipe is currently being used by hundreds of startups and enterprises around the world. We have customers in most industry vericals and we support customers of all sizes. 
+HackerBay Labs has worked with and is working with hundreds of startups and enterprises around the world.  We have customers in most industry vericals and we support customers of all sizes. 
 
 ### Who are we ideally suited for? 
 
 #### (250 characters)
 
-We're ideally suited for companies who want to get an app or a service built. We're a plug and play tech team which integrates with our client's team and helps them get technology built. We've worked with companies of all sizes and verticals. 
+We're ideally suited for companies who want to get an app or a service built. We're a plug and play tech team which integrates with our client's team and helps them ship high-quality products to their customers on time. We've worked with companies of all sizes and verticals. 
 
 #### (200 characters)
-We're ideally suited for companies who want to get an app or a service built. We're a plug and play tech team which integrates with our client's team and helps them get technology built.  
+We're ideally suited for companies who want to get an app or a service built. We're a plug and play tech team which integrates with our client's team and helps them ship high-quality products to their customers on time.  
 
 ## Current and Past Clients
 
