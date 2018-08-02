@@ -15,18 +15,18 @@ HackerBay Labs is a software consulting and software development agency that hel
 
 ## Differentiators
 
-### 250 characters
+We have an intro call where we look at your requirements and give you an estimate on how long will this take us to do. If we agree on the terms, we begin the work immediately.
 
-We won't force you to flip your business in 3-5 years. We won't lock you into golden handcuffs or push complex deal terms. We won't ruin your life with weeks of unnecessary due diligence. We won't renegotiate and grind you on terms and we don't take a board seat. 
+Here's how we work:
 
-
-### 500 characters
-
-We won't force you to flip your business in 3-5 years. We won't lock you into golden handcuffs or push complex deal terms. We won't ruin your life with weeks of unnecessary due diligence. We won't renegotiate and grind you on terms and we don't take a board seat. 
-
-We'll make an offer within 7 days and close in 30. We wire you the funds the day we sign the contract. We started HackerBay Ventures to create an investor we wished we had when we started up. 
-
-We usually sign a [SAFE](https://www.ycombinator.com/documents/#safe) at this stage of the business - it's fair to both founders and us when critical valuation conversations are deferred to a priced round.
+Demos every week: We demo the work we've done at the end of every week. If you're not satisfied with the demo. We waive the invoice off.
+Talk directly to engineers: You talk directly to someone who is actually working on your project. No project manager. No middle man. No fuss.
+Part time or Full time: We engage with you part time or full-time. Any number of hours a week is completely fine by us.
+Any technology: We work with any technology and on any stack. From Web to Mobile, JavaScript to Go and more.
+Updates every day: We'll have a call with you and update you every day on Slack or Skype on work we've done.
+Our team is yours: Hire anyone in our team. From app developers, to UI/UX designers, and even DevOps. We're all yours.
+Transparency in work: Every minute of work we do is recorded and snapshotted for you to look at. We believe in 100% transparency.
+Beautiful apps. Guaranteed. We'll make your app and services amazing, beautiful, simple, and easy to use.
 
 ## Target Market
 
